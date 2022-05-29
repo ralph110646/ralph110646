@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ralph110646
+- 👀 I’m interested designing simple ideas and am currently working on a mobile platform I named Robo1.
+- 🌱 While doing this I learn about such things as Aduino, using thr WiFi components (ESP32 CAM) and displays. Most of my knowledge is gained by doing projects described by courses.
+- 💞️ I’m looking to collaborate on solving items that do not work as I had planned and 3D designs.
+- 📫 You can contact me at ralph.vignau@gmail.com. Please do not fill my in box with adverts. 
+- Some of the simple items I have designed for domestic use: Circle marker for Snooker tables, Round feet for tables to set specific hights, pocket to store bed controller, plug for holes in shelves and cupbpaords
